@@ -1,0 +1,701 @@
+CHROM	POS	REF	ALT	Allele	Annotation	Annotation_Impact	Gene_Name	Gene_ID	Feature_Type	Feature_ID	Transcript_BioType	Rank	HGVS.c	HGVS.p	cDNA.pos/cDNA.length	CDS.pos/CDS.length	AA.pos/AA.length	Distance	Errors
+17	7565159	A	G	G	3_prime_UTR_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding	7/7	c.*98T>C					98	,G
+17	7565159	ACCT	A	A	3_prime_UTR_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding	7/7	c.*95_*97delAGG					95	,A
+17	7565166	C	T	T	3_prime_UTR_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding	7/7	c.*91G>A					91	,T
+17	7565306	G	C	C	stop_gained	HIGH	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding	7/7	c.809C>G	p.Ser270*	809/1018	809/858	270/285		,C
+17	7565352	C	A	A	downstream_gene_variant	MODIFIER	ATP1B2	ENSG00000129244	transcript	ENST00000250111	protein_coding		c.*6139C>A					4266	,A
+17	7565368	C	T	T	downstream_gene_variant	MODIFIER	ATP1B2	ENSG00000129244	transcript	ENST00000250111	protein_coding		c.*6155C>T					4282	,T
+17	7565395	C	T	T	downstream_gene_variant	MODIFIER	ATP1B2	ENSG00000129244	transcript	ENST00000250111	protein_coding		c.*6182C>T					4309	,T
+17	7565421	C	T	T	downstream_gene_variant	MODIFIER	ATP1B2	ENSG00000129244	transcript	ENST00000250111	protein_coding		c.*6208C>T					4335	,T
+17	7565569	T	G	G	downstream_gene_variant	MODIFIER	ATP1B2	ENSG00000129244	transcript	ENST00000250111	protein_coding		c.*6356T>G					4483	,G
+17	7565681	A	G	G	downstream_gene_variant	MODIFIER	ATP1B2	ENSG00000129244	transcript	ENST00000250111	protein_coding		c.*6468A>G					4595	,G
+17	7565696	A	C	C	downstream_gene_variant	MODIFIER	ATP1B2	ENSG00000129244	transcript	ENST00000250111	protein_coding		c.*6483A>C					4610	,C
+17	7565734	T	A	A	downstream_gene_variant	MODIFIER	ATP1B2	ENSG00000129244	transcript	ENST00000250111	protein_coding		c.*6521T>A					4648	,A
+17	7565800	T	G	G	downstream_gene_variant	MODIFIER	ATP1B2	ENSG00000129244	transcript	ENST00000250111	protein_coding		c.*6587T>G					4714	,G
+17	7565811	A	G	G	downstream_gene_variant	MODIFIER	ATP1B2	ENSG00000129244	transcript	ENST00000250111	protein_coding		c.*6598A>G					4725	,G
+17	7566068	C	T	T	downstream_gene_variant	MODIFIER	ATP1B2	ENSG00000129244	transcript	ENST00000250111	protein_coding		c.*6855C>T					4982	,T
+17	7566133	A	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000359597	protein_coding		c.*3391T>C					3271	,G
+17	7566237	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000359597	protein_coding		c.*3287G>A					3167	,T
+17	7566258	G	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000359597	protein_coding		c.*3266C>G					3146	,C
+17	7566274	T	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000359597	protein_coding		c.*3250A>C					3130	,G
+17	7566305	G	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000359597	protein_coding		c.*3219C>G					3099	,C
+17	7566326	CT	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000359597	protein_coding		c.*3197delA					3077	,C
+17	7566333	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000359597	protein_coding		c.*3191G>A					3071	,T
+17	7566335	A	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000359597	protein_coding		c.*3189T>C					3069	,G
+17	7566366	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000359597	protein_coding		c.*3158G>A					3038	,T
+17	7566380	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000359597	protein_coding		c.*3144C>T					3024	,A
+17	7566428	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000359597	protein_coding		c.*3096C>T					2976	,A
+17	7566517	T	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000359597	protein_coding		c.*3007A>G					2887	,C
+17	7566560	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000359597	protein_coding		c.*2964C>T					2844	,A
+17	7566630	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000359597	protein_coding		c.*2894C>T					2774	,A
+17	7566687	T	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000359597	protein_coding		c.*2837A>T					2717	,A
+17	7566701	AC	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000359597	protein_coding		c.*2822delG					2702	,A
+17	7566715	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000359597	protein_coding		c.*2809C>T					2689	,A
+17	7566731	A	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*6196T>G					4989	,C
+17	7566781	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*6146G>A					4939	,T
+17	7566783	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*6144C>T					4937	,A
+17	7566861	AAAAAG	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*6061_*6065delCTTTT					4858	,A
+17	7566893	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*6034G>A					4827	,T
+17	7566896	G	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*6031C>G					4824	,C
+17	7566897	A	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*6030T>G					4823	,C
+17	7566927	T	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*6000A>T					4793	,A
+17	7566954	T	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*5973A>G					4766	,C
+17	7566979	A	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*5948T>C					4741	,G
+17	7567025	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*5902C>T					4695	,A
+17	7567048	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*5879G>A					4672	,T
+17	7567095	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*5832G>A					4625	,T
+17	7567101	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*5826C>T					4619	,A
+17	7567127	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*5800G>A					4593	,T
+17	7567140	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*5787G>A					4580	,T
+17	7567200	C	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*5727G>T					4520	,A
+17	7567207	A	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*5720T>G					4513	,C
+17	7567213	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*5714C>T					4507	,A
+17	7567277	T	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*5650A>G					4443	,C
+17	7567440	T	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*5487A>G					4280	,C
+17	7567444	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*5483C>T					4276	,A
+17	7567468	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*5459C>T					4252	,A
+17	7567512	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*5415G>A					4208	,T
+17	7567515	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*5412G>A					4205	,T
+17	7567544	T	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*5383A>T					4176	,A
+17	7567658	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*5269C>T					4062	,A
+17	7567681	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*5246G>A					4039	,T
+17	7567703	A	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*5224T>C					4017	,G
+17	7567721	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*5206G>A					3999	,T
+17	7567727	A	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*5200T>G					3993	,C
+17	7567734	T	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*5193A>T					3986	,A
+17	7567737	C	CT	CT	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*5189_*5190insA					3982	,CT
+17	7567773	CTCTA	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*5150_*5153delTAGA					3946	,C
+17	7567786	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*5141G>A					3934	,T
+17	7567822	A	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*5105T>A					3898	,T
+17	7567826	G	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*5101C>G					3894	,C
+17	7567859	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*5068C>T					3861	,A
+17	7567902	C	CT	CT	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*5024dupA					3817	,CT
+17	7567948	T	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*4979A>C					3772	,G
+17	7567962	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*4965G>A					3758	,T
+17	7568027	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*4900G>A					3693	,T
+17	7568043	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*4884G>A					3677	,T
+17	7568052	T	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*4875A>G					3668	,C
+17	7568055	C	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*4872G>C					3665	,G
+17	7568176	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*4751C>T					3544	,A
+17	7568207	C	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*4720G>T					3513	,A
+17	7568212	T	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*4715A>G					3508	,C
+17	7568225	A	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*4702T>A					3495	,T
+17	7568262	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*4665G>A					3458	,T
+17	7568309	C	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*4618G>T					3411	,A
+17	7568327	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*4600G>A					3393	,T
+17	7568356	A	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*4571T>C					3364	,G
+17	7568357	T	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*4570A>C					3363	,G
+17	7568443	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*4484C>T					3277	,A
+17	7568497	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*4430C>T					3223	,A
+17	7568569	T	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*4358A>G					3151	,C
+17	7568627	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*4300G>A					3093	,T
+17	7568628	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*4299C>T					3092	,A
+17	7568643	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*4284G>A					3077	,T
+17	7568647	A	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*4280T>C					3073	,G
+17	7568710	A	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*4217T>G					3010	,C
+17	7568712	A	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*4215T>C					3008	,G
+17	7568768	T	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*4159A>T					2952	,A
+17	7568836	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*4091C>T					2884	,A
+17	7568885	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*4042C>T					2835	,A
+17	7568925	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*4002G>A					2795	,T
+17	7568970	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*3957C>T					2750	,A
+17	7568978	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*3949C>T					2742	,A
+17	7569026	A	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*3901T>C					2694	,G
+17	7569035	G	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*3892C>G					2685	,C
+17	7569092	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*3835C>T					2628	,A
+17	7569109	C	CA	CA	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*3817dupT					2610	,CA
+17	7569146	T	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*3781A>C					2574	,G
+17	7569173	C	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*3754G>C					2547	,G
+17	7569174	T	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*3753A>C					2546	,G
+17	7569239	T	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*3688A>G					2481	,C
+17	7569261	T	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*3666A>G					2459	,C
+17	7569291	T	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*3636A>C					2429	,G
+17	7569350	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*3577C>T					2370	,A
+17	7569371	A	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*3556T>A					2349	,T
+17	7569382	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*3545G>A					2338	,T
+17	7569398	T	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*3529A>G					2322	,C
+17	7569422	G	A	A	3_prime_UTR_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000359597	protein_coding	9/9	c.*102C>T					102	,A
+17	7569425	G	C	C	3_prime_UTR_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000359597	protein_coding	9/9	c.*99C>G					99	,C
+17	7569446	C	T	T	3_prime_UTR_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000359597	protein_coding	9/9	c.*78G>A					78	,T
+17	7569482	G	A	A	3_prime_UTR_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000359597	protein_coding	9/9	c.*42C>T					42	,A
+17	7569542	G	A	A	synonymous_variant	LOW	TP53	ENSG00000141510	transcript	ENST00000359597	protein_coding	9/9	c.1014C>T	p.His338His	1014/1152	1014/1032	338/343		,A
+17	7569546	C	G	G	missense_variant	MODERATE	TP53	ENSG00000141510	transcript	ENST00000359597	protein_coding	9/9	c.1010G>C	p.Arg337Thr	1010/1152	1010/1032	337/343		,G
+17	7569576	T	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*3351A>G					2144	,C
+17	7569646	T	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*3281A>G					2074	,C
+17	7569663	A	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*3264T>C					2057	,G
+17	7569698	A	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*3229T>G					2022	,C
+17	7569723	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*3204G>A					1997	,T
+17	7569739	G	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*3188C>G					1981	,C
+17	7569752	T	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*3175A>T					1968	,A
+17	7569783	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*3144G>A					1937	,T
+17	7569784	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*3143C>T					1936	,A
+17	7569822	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*3105C>T					1898	,A
+17	7569974	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*2953G>A					1746	,T
+17	7569981	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*2946G>A					1739	,T
+17	7570042	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*2885G>A					1678	,T
+17	7570124	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*2803C>T					1596	,A
+17	7570134	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*2793C>T					1586	,A
+17	7570148	A	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*2779T>C					1572	,G
+17	7570168	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*2759C>T					1552	,A
+17	7570189	T	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*2738A>G					1531	,C
+17	7570218	A	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*2709T>C					1502	,G
+17	7570258	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*2669C>T					1462	,A
+17	7570316	A	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*2611T>C					1404	,G
+17	7570318	G	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*2609C>A					1402	,T
+17	7570354	T	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*2573A>C					1366	,G
+17	7570372	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*2555C>T					1348	,A
+17	7570379	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*2548G>A					1341	,T
+17	7570389	C	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*2538G>C					1331	,G
+17	7570422	T	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*2505A>G					1298	,C
+17	7570445	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*2482G>A					1275	,T
+17	7570446	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*2481C>T					1274	,A
+17	7570487	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*2440G>A					1233	,T
+17	7570548	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*2379C>T					1172	,A
+17	7570549	C	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*2378G>T					1171	,A
+17	7570578	TA	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*2348delT					1141	,T
+17	7570622	G	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*2305C>G					1098	,C
+17	7570680	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*2247C>T					1040	,A
+17	7570758	A	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*2169T>C					962	,G
+17	7570802	T	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*2125A>C					918	,G
+17	7570823	G	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*2104C>G					897	,C
+17	7570869	T	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*2058A>G					851	,C
+17	7570878	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*2049C>T					842	,A
+17	7570929	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*1998G>A					791	,T
+17	7570930	A	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*1997T>C					790	,G
+17	7570948	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*1979C>T					772	,A
+17	7570956	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*1971C>T					764	,A
+17	7570978	T	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*1949A>G					742	,C
+17	7570995	A	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*1932T>C					725	,G
+17	7571024	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*1903C>T					696	,A
+17	7571041	C	A,G	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*1886G>T					679	,G
+17	7571071	T	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*1856A>G					649	,C
+17	7571080	A	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*1847T>C					640	,G
+17	7571099	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*1828G>A					621	,T
+17	7571224	C	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*1703G>T					496	,A
+17	7571226	C	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*1701G>T					494	,A
+17	7571259	T	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*1668A>G					461	,C
+17	7571305	A	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*1622T>C					415	,G
+17	7571434	C	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*1493G>C					286	,G
+17	7571452	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*1475C>T					268	,A
+17	7571487	A	AGCCGTG	AGCCGTG	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*1434_*1439dupCACGGC					232	,AGCCGTG
+17	7571545	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*1382G>A					175	,T
+17	7571546	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*1381G>A					174	,T
+17	7571567	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*1360G>A					153	,T
+17	7571597	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*1330G>A					123	,T
+17	7571603	C	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*1324G>T					117	,A
+17	7571635	A	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*1292T>A					85	,T
+17	7571706	C	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding		c.*1221G>C					14	,G
+17	7571752	T	G	G	3_prime_UTR_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	11/11	c.*1175A>C					1175	,G
+17	7571830	A	T	T	3_prime_UTR_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	11/11	c.*1097T>A					1097	,T
+17	7571857	G	A	A	3_prime_UTR_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	11/11	c.*1070C>T					1070	,A
+17	7571864	C	T	T	3_prime_UTR_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	11/11	c.*1063G>A					1063	,T
+17	7571936	C	A	A	3_prime_UTR_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	11/11	c.*991G>T					991	,A
+17	7571991	T	C	C	3_prime_UTR_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	11/11	c.*936A>G					936	,C
+17	7572041	C	T	T	3_prime_UTR_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	11/11	c.*886G>A					886	,T
+17	7572064	G	A	A	3_prime_UTR_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	11/11	c.*863C>T					863	,A
+17	7572072	G	A	A	3_prime_UTR_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	11/11	c.*855C>T					855	,A
+17	7572101	C	T	T	3_prime_UTR_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	11/11	c.*826G>A					826	,T
+17	7572102	G	A	A	3_prime_UTR_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	11/11	c.*825C>T					825	,A
+17	7572145	A	G	G	3_prime_UTR_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	11/11	c.*782T>C					782	,G
+17	7572154	G	A	A	3_prime_UTR_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	11/11	c.*773C>T					773	,A
+17	7572164	A	G	G	3_prime_UTR_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	11/11	c.*763T>C					763	,G
+17	7572231	A	G	G	3_prime_UTR_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	11/11	c.*696T>C					696	,G
+17	7572314	G	T	T	3_prime_UTR_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	11/11	c.*613C>A					613	,T
+17	7572356	AAC	A	A	3_prime_UTR_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	11/11	c.*569_*570delGT					569	,A
+17	7572398	C	G	G	3_prime_UTR_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	11/11	c.*529G>C					529	,G
+17	7572425	G	A	A	3_prime_UTR_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	11/11	c.*502C>T					502	,A
+17	7572442	C	T	T	3_prime_UTR_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	11/11	c.*485G>A					485	,T
+17	7572518	G	T	T	3_prime_UTR_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	11/11	c.*409C>A					409	,T
+17	7572540	G	T	T	3_prime_UTR_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	11/11	c.*387C>A					387	,T
+17	7572570	A	G	G	3_prime_UTR_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	11/11	c.*357T>C					357	,G
+17	7572599	C	T	T	3_prime_UTR_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	11/11	c.*328G>A					328	,T
+17	7572613	C	T	T	3_prime_UTR_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	11/11	c.*314G>A					314	,T
+17	7572722	C	T	T	3_prime_UTR_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	11/11	c.*205G>A					205	,T
+17	7572783	C	T	T	3_prime_UTR_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	11/11	c.*144G>A					144	,T
+17	7572822	G	A	A	3_prime_UTR_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	11/11	c.*105C>T					105	,A
+17	7572893	G	A	A	3_prime_UTR_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	11/11	c.*34C>T					34	,A
+17	7573057	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*3796C>T					3796	WARNING_TRANSCRIPT_NO_STOP_CODON,A
+17	7573081	C	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*3772G>C					3772	WARNING_TRANSCRIPT_NO_STOP_CODON,G
+17	7573096	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*3757G>A					3757	WARNING_TRANSCRIPT_NO_STOP_CODON,T
+17	7573112	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*3741G>A					3741	WARNING_TRANSCRIPT_NO_STOP_CODON,T
+17	7573168	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*3685G>A					3685	WARNING_TRANSCRIPT_NO_STOP_CODON,T
+17	7573208	A	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*3645T>C					3645	WARNING_TRANSCRIPT_NO_STOP_CODON,G
+17	7573211	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*3642G>A					3642	WARNING_TRANSCRIPT_NO_STOP_CODON,T
+17	7573222	T	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*3631A>G					3631	WARNING_TRANSCRIPT_NO_STOP_CODON,C
+17	7573229	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*3624G>A					3624	WARNING_TRANSCRIPT_NO_STOP_CODON,T
+17	7573240	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*3613G>A					3613	WARNING_TRANSCRIPT_NO_STOP_CODON,T
+17	7573253	T	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*3600A>G					3600	WARNING_TRANSCRIPT_NO_STOP_CODON,C
+17	7573281	A	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*3572T>A					3572	WARNING_TRANSCRIPT_NO_STOP_CODON,T
+17	7573323	A	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*3530T>G					3530	WARNING_TRANSCRIPT_NO_STOP_CODON,C
+17	7573332	C	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*3521G>T					3521	WARNING_TRANSCRIPT_NO_STOP_CODON,A
+17	7573379	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*3474G>A					3474	WARNING_TRANSCRIPT_NO_STOP_CODON,T
+17	7573383	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*3470G>A					3470	WARNING_TRANSCRIPT_NO_STOP_CODON,T
+17	7573384	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*3469C>T					3469	WARNING_TRANSCRIPT_NO_STOP_CODON,A
+17	7573449	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*3404G>A					3404	WARNING_TRANSCRIPT_NO_STOP_CODON,T
+17	7573457	G	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*3396C>G					3396	WARNING_TRANSCRIPT_NO_STOP_CODON,C
+17	7573468	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*3385G>A					3385	WARNING_TRANSCRIPT_NO_STOP_CODON,T
+17	7573496	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*3357C>T					3357	WARNING_TRANSCRIPT_NO_STOP_CODON,A
+17	7573500	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*3353C>T					3353	WARNING_TRANSCRIPT_NO_STOP_CODON,A
+17	7573507	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*3346G>A					3346	WARNING_TRANSCRIPT_NO_STOP_CODON,T
+17	7573517	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*3336G>A					3336	WARNING_TRANSCRIPT_NO_STOP_CODON,T
+17	7573596	A	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*3257T>C					3257	WARNING_TRANSCRIPT_NO_STOP_CODON,G
+17	7573663	G	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*3190C>G					3190	WARNING_TRANSCRIPT_NO_STOP_CODON,C
+17	7573688	T	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*3165A>G					3165	WARNING_TRANSCRIPT_NO_STOP_CODON,C
+17	7573773	G	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*3080C>G					3080	WARNING_TRANSCRIPT_NO_STOP_CODON,C
+17	7573794	T	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*3059A>G					3059	WARNING_TRANSCRIPT_NO_STOP_CODON,C
+17	7573867	A	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*2986T>C					2986	WARNING_TRANSCRIPT_NO_STOP_CODON,G
+17	7573897	T	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*2956A>T					2956	WARNING_TRANSCRIPT_NO_STOP_CODON,A
+17	7573931	A	C	C	missense_variant	MODERATE	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	10/11	c.1096T>G	p.Ser366Ala	1286/2579	1096/1182	366/393		,C
+17	7573948	C	G	G	missense_variant	MODERATE	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	10/11	c.1079G>C	p.Gly360Ala	1269/2579	1079/1182	360/393		,G
+17	7573950	T	C	C	synonymous_variant	LOW	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	10/11	c.1077A>G	p.Pro359Pro	1267/2579	1077/1182	359/393		,C
+17	7574013	G	C	C	missense_variant	MODERATE	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	10/11	c.1014C>G	p.Phe338Leu	1204/2579	1014/1182	338/393		,C
+17	7574029	C	T	T	missense_variant	MODERATE	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	10/11	c.998G>A	p.Arg333His	1188/2579	998/1182	333/393		,T
+17	7574050	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*2803C>T					2803	WARNING_TRANSCRIPT_NO_STOP_CODON,A
+17	7574074	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*2779C>T					2779	WARNING_TRANSCRIPT_NO_STOP_CODON,A
+17	7574115	T	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*2738A>G					2738	WARNING_TRANSCRIPT_NO_STOP_CODON,C
+17	7574119	T	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*2734A>G					2734	WARNING_TRANSCRIPT_NO_STOP_CODON,C
+17	7574315	G	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*2538C>G					2538	WARNING_TRANSCRIPT_NO_STOP_CODON,C
+17	7574421	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*2432C>T					2432	WARNING_TRANSCRIPT_NO_STOP_CODON,A
+17	7574458	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*2395C>T					2395	WARNING_TRANSCRIPT_NO_STOP_CODON,A
+17	7574486	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*2367C>T					2367	WARNING_TRANSCRIPT_NO_STOP_CODON,A
+17	7574494	T	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*2359A>G					2359	WARNING_TRANSCRIPT_NO_STOP_CODON,C
+17	7574505	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*2348C>T					2348	WARNING_TRANSCRIPT_NO_STOP_CODON,A
+17	7574548	T	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*2305A>G					2305	WARNING_TRANSCRIPT_NO_STOP_CODON,C
+17	7574583	G	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*2270C>A					2270	WARNING_TRANSCRIPT_NO_STOP_CODON,T
+17	7574618	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*2235C>T					2235	WARNING_TRANSCRIPT_NO_STOP_CODON,A
+17	7574659	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*2194C>T					2194	WARNING_TRANSCRIPT_NO_STOP_CODON,A
+17	7574677	T	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*2176A>G					2176	WARNING_TRANSCRIPT_NO_STOP_CODON,C
+17	7574680	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*2173G>A					2173	WARNING_TRANSCRIPT_NO_STOP_CODON,T
+17	7574721	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*2132G>A					2132	WARNING_TRANSCRIPT_NO_STOP_CODON,T
+17	7574775	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*2078G>A					2078	WARNING_TRANSCRIPT_NO_STOP_CODON,T
+17	7574779	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*2074G>A					2074	WARNING_TRANSCRIPT_NO_STOP_CODON,T
+17	7574816	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*2037G>A					2037	WARNING_TRANSCRIPT_NO_STOP_CODON,T
+17	7574864	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*1989G>A					1989	WARNING_TRANSCRIPT_NO_STOP_CODON,T
+17	7574897	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*1956G>A					1956	WARNING_TRANSCRIPT_NO_STOP_CODON,T
+17	7574909	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*1944G>A					1944	WARNING_TRANSCRIPT_NO_STOP_CODON,T
+17	7574929	T	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*1924A>G					1924	WARNING_TRANSCRIPT_NO_STOP_CODON,C
+17	7574936	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*1917G>A					1917	WARNING_TRANSCRIPT_NO_STOP_CODON,T
+17	7574944	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*1909C>T					1909	WARNING_TRANSCRIPT_NO_STOP_CODON,A
+17	7574953	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*1900C>T					1900	WARNING_TRANSCRIPT_NO_STOP_CODON,A
+17	7574997	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*1856G>A					1856	WARNING_TRANSCRIPT_NO_STOP_CODON,T
+17	7575103	A	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*1750T>C					1750	WARNING_TRANSCRIPT_NO_STOP_CODON,G
+17	7575118	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*1735C>T					1735	WARNING_TRANSCRIPT_NO_STOP_CODON,A
+17	7575123	A	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*1730T>C					1730	WARNING_TRANSCRIPT_NO_STOP_CODON,G
+17	7575278	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*1575G>A					1575	WARNING_TRANSCRIPT_NO_STOP_CODON,T
+17	7575321	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*1532G>A					1532	WARNING_TRANSCRIPT_NO_STOP_CODON,T
+17	7575324	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*1529G>A					1529	WARNING_TRANSCRIPT_NO_STOP_CODON,T
+17	7575431	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*1422G>A					1422	WARNING_TRANSCRIPT_NO_STOP_CODON,T
+17	7575450	C	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*1403G>C					1403	WARNING_TRANSCRIPT_NO_STOP_CODON,G
+17	7575461	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*1392C>T					1392	WARNING_TRANSCRIPT_NO_STOP_CODON,A
+17	7575514	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*1339G>A					1339	WARNING_TRANSCRIPT_NO_STOP_CODON,T
+17	7575564	T	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*1289A>G					1289	WARNING_TRANSCRIPT_NO_STOP_CODON,C
+17	7575633	A	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*1220T>C					1220	WARNING_TRANSCRIPT_NO_STOP_CODON,G
+17	7575713	A	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*1140T>A					1140	WARNING_TRANSCRIPT_NO_STOP_CODON,T
+17	7575733	A	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*1120T>C					1120	WARNING_TRANSCRIPT_NO_STOP_CODON,G
+17	7575917	G	C	C	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*936C>G					936	WARNING_TRANSCRIPT_NO_STOP_CODON,C
+17	7575952	A	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*901T>C					901	WARNING_TRANSCRIPT_NO_STOP_CODON,G
+17	7576111	G	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*742C>A					742	WARNING_TRANSCRIPT_NO_STOP_CODON,T
+17	7576144	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*709C>T					709	WARNING_TRANSCRIPT_NO_STOP_CODON,A
+17	7576151	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*702C>T					702	WARNING_TRANSCRIPT_NO_STOP_CODON,A
+17	7576221	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*632C>T					632	WARNING_TRANSCRIPT_NO_STOP_CODON,A
+17	7576246	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*607C>T					607	WARNING_TRANSCRIPT_NO_STOP_CODON,A
+17	7576272	A	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*581T>A					581	WARNING_TRANSCRIPT_NO_STOP_CODON,T
+17	7576276	T	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*577A>T					577	WARNING_TRANSCRIPT_NO_STOP_CODON,A
+17	7576289	A	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*564T>C					564	WARNING_TRANSCRIPT_NO_STOP_CODON,G
+17	7576348	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*505G>A					505	WARNING_TRANSCRIPT_NO_STOP_CODON,T
+17	7576349	A	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*504T>C					504	WARNING_TRANSCRIPT_NO_STOP_CODON,G
+17	7576357	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*496G>A					496	WARNING_TRANSCRIPT_NO_STOP_CODON,T
+17	7576375	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*478C>T					478	WARNING_TRANSCRIPT_NO_STOP_CODON,A
+17	7576392	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*461C>T					461	WARNING_TRANSCRIPT_NO_STOP_CODON,A
+17	7576501	G	A	A	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*352C>T					352	WARNING_TRANSCRIPT_NO_STOP_CODON,A
+17	7576540	C	T	T	synonymous_variant	LOW	TP53	ENSG00000141510	transcript	ENST00000455263	protein_coding	10/12	c.1038G>A	p.Ser346Ser	1171/2580	1038/1041	346/346		,T
+17	7576543	C	A	A	synonymous_variant	LOW	TP53	ENSG00000141510	transcript	ENST00000455263	protein_coding	10/12	c.1035G>T	p.Ser345Ser	1168/2580	1035/1041	345/346		,A
+17	7576546	G	A	A	synonymous_variant	LOW	TP53	ENSG00000141510	transcript	ENST00000455263	protein_coding	10/12	c.1032C>T	p.Asn344Asn	1165/2580	1032/1041	344/346		,A
+17	7576569	G	A	A	stop_gained	HIGH	TP53	ENSG00000141510	transcript	ENST00000455263	protein_coding	10/12	c.1009C>T	p.Arg337*	1142/2580	1009/1041	337/346		,A
+17	7576609	C	A	A	3_prime_UTR_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000420246	protein_coding	10/12	c.*16G>T					16	,A
+17	7576630	A	C	C	missense_variant	MODERATE	TP53	ENSG00000141510	transcript	ENST00000420246	protein_coding	10/12	c.1021T>G	p.Cys341Gly	1154/2653	1021/1026	341/341		,C
+17	7576708	A	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*145T>C					145	WARNING_TRANSCRIPT_NO_STOP_CODON,G
+17	7576712	C	T	T	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*141G>A					141	WARNING_TRANSCRIPT_NO_STOP_CODON,T
+17	7576818	C	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*35G>C					35	WARNING_TRANSCRIPT_NO_STOP_CODON,G
+17	7576841	A	G	G	downstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000509690	protein_coding		c.*12T>C					12	WARNING_TRANSCRIPT_NO_STOP_CODON,G
+17	7576911	G	C	C	missense_variant	MODERATE	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	9/11	c.935C>G	p.Thr312Ser	1125/2579	935/1182	312/393		,C
+17	7576931	G	A	A	splice_region_variant&intron_variant	LOW	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	8/10	c.920-5C>T						,A
+17	7576948	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-45C>T					43	WARNING_TRANSCRIPT_NO_START_CODON,A
+17	7576975	T	C	C	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-72A>G					70	WARNING_TRANSCRIPT_NO_START_CODON,C
+17	7576997	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-94C>T					92	WARNING_TRANSCRIPT_NO_START_CODON,A
+17	7577012	T	G	G	splice_region_variant&intron_variant	LOW	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	8/10	c.919+7A>C						,G
+17	7577035	T	C	C	synonymous_variant	LOW	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	8/11	c.903A>G	p.Pro301Pro	1093/2579	903/1182	301/393		,C
+17	7577046	C	T	T	missense_variant	MODERATE	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	8/11	c.892G>A	p.Glu298Lys	1082/2579	892/1182	298/393		,T
+17	7577069	C	T	T	missense_variant	MODERATE	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	8/11	c.869G>A	p.Arg290His	1059/2579	869/1182	290/393		,T
+17	7577120	C	T	T	missense_variant	MODERATE	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	8/11	c.818G>A	p.Arg273His	1008/2579	818/1182	273/393		,T
+17	7577151	T	C	C	missense_variant	MODERATE	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	8/11	c.787A>G	p.Asn263Asp	977/2579	787/1182	263/393		,C
+17	7577231	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-328G>A					326	WARNING_TRANSCRIPT_NO_START_CODON,T
+17	7577367	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-464G>A					462	WARNING_TRANSCRIPT_NO_START_CODON,T
+17	7577369	C	G	G	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-466G>C					464	WARNING_TRANSCRIPT_NO_START_CODON,G
+17	7577370	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-467G>A					465	WARNING_TRANSCRIPT_NO_START_CODON,T
+17	7577374	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-471C>T					469	WARNING_TRANSCRIPT_NO_START_CODON,A
+17	7577407	A	C	C	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-504T>G					502	WARNING_TRANSCRIPT_NO_START_CODON,C
+17	7577427	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-524C>T					522	WARNING_TRANSCRIPT_NO_START_CODON,A
+17	7577467	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-564C>T					562	WARNING_TRANSCRIPT_NO_START_CODON,A
+17	7577478	G	C	C	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-575C>G					573	WARNING_TRANSCRIPT_NO_START_CODON,C
+17	7577482	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-579C>T					577	WARNING_TRANSCRIPT_NO_START_CODON,A
+17	7577489	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-586C>T					584	WARNING_TRANSCRIPT_NO_START_CODON,A
+17	7577627	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-724G>A					722	WARNING_TRANSCRIPT_NO_START_CODON,T
+17	7577644	C	G	G	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-741G>C					739	WARNING_TRANSCRIPT_NO_START_CODON,G
+17	7577645	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-742C>T					740	WARNING_TRANSCRIPT_NO_START_CODON,A
+17	7577659	T	C	C	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-756A>G					754	WARNING_TRANSCRIPT_NO_START_CODON,C
+17	7577667	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-764C>T					762	WARNING_TRANSCRIPT_NO_START_CODON,A
+17	7577671	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-768C>T					766	WARNING_TRANSCRIPT_NO_START_CODON,A
+17	7577672	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-769C>T					767	WARNING_TRANSCRIPT_NO_START_CODON,A
+17	7577708	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-805C>T					803	WARNING_TRANSCRIPT_NO_START_CODON,A
+17	7577709	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-806G>A					804	WARNING_TRANSCRIPT_NO_START_CODON,T
+17	7577715	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-812G>A					810	WARNING_TRANSCRIPT_NO_START_CODON,T
+17	7577765	C	G	G	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-862G>C					860	WARNING_TRANSCRIPT_NO_START_CODON,G
+17	7577777	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-874G>A					872	WARNING_TRANSCRIPT_NO_START_CODON,T
+17	7577843	A	AT	AT	splice_region_variant&non_coding_transcript_exon_variant	LOW	TP53	ENSG00000141510	transcript	ENST00000505014	retained_intron	5/5	n.1261dupA						,AT
+17	7577870	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-967G>A					965	WARNING_TRANSCRIPT_NO_START_CODON,T
+17	7577957	C	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-1054G>T					1052	WARNING_TRANSCRIPT_NO_START_CODON,A
+17	7577970	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-1067C>T					1065	WARNING_TRANSCRIPT_NO_START_CODON,A
+17	7577982	AG	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-1080delC					1078	WARNING_TRANSCRIPT_NO_START_CODON,A
+17	7578058	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-1155G>A					1153	WARNING_TRANSCRIPT_NO_START_CODON,T
+17	7578072	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-1169C>T					1167	WARNING_TRANSCRIPT_NO_START_CODON,A
+17	7578115	T	C	C	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-1212A>G					1210	WARNING_TRANSCRIPT_NO_START_CODON,C
+17	7578116	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-1213C>T					1211	WARNING_TRANSCRIPT_NO_START_CODON,A
+17	7578129	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-1226G>A					1224	WARNING_TRANSCRIPT_NO_START_CODON,T
+17	7578146	T	C	C	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-1243A>G					1241	WARNING_TRANSCRIPT_NO_START_CODON,C
+17	7578147	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-1244G>A					1242	WARNING_TRANSCRIPT_NO_START_CODON,T
+17	7578159	C	G	G	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-1256G>C					1254	WARNING_TRANSCRIPT_NO_START_CODON,G
+17	7578162	A	G	G	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-1259T>C					1257	WARNING_TRANSCRIPT_NO_START_CODON,G
+17	7578191	A	G	G	missense_variant	MODERATE	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	6/11	c.658T>C	p.Tyr220His	848/2579	658/1182	220/393		,G
+17	7578201	C	G	G	synonymous_variant	LOW	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	6/11	c.648G>C	p.Val216Val	838/2579	648/1182	216/393		,G
+17	7578210	T	C	C	synonymous_variant	LOW	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	6/11	c.639A>G	p.Arg213Arg	829/2579	639/1182	213/393		,C
+17	7578297	C	G	G	splice_region_variant&intron_variant	LOW	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	5/10	c.560-8G>C						,G
+17	7578351	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-1448G>A					1446	WARNING_TRANSCRIPT_NO_START_CODON,T
+17	7578368	C	A	A	splice_region_variant&intron_variant	LOW	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	5/10	c.559+3G>T						,A
+17	7578407	G	A	A	missense_variant	MODERATE	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	5/11	c.523C>T	p.Arg175Cys	713/2579	523/1182	175/393		,A
+17	7578456	G	A	A	synonymous_variant	LOW	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	5/11	c.474C>T	p.Arg158Arg	664/2579	474/1182	158/393		,A
+17	7578471	G	A	A	synonymous_variant	LOW	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	5/11	c.459C>T	p.Pro153Pro	649/2579	459/1182	153/393		,A
+17	7578623	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-1720G>A					1718	WARNING_TRANSCRIPT_NO_START_CODON,T
+17	7578640	A	G	G	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-1737T>C					1735	WARNING_TRANSCRIPT_NO_START_CODON,G
+17	7578645	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-1742G>A					1740	WARNING_TRANSCRIPT_NO_START_CODON,T
+17	7578655	T	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-1752A>T					1750	WARNING_TRANSCRIPT_NO_START_CODON,A
+17	7578671	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-1768G>A					1766	WARNING_TRANSCRIPT_NO_START_CODON,T
+17	7578679	A	G	G	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-1776T>C					1774	WARNING_TRANSCRIPT_NO_START_CODON,G
+17	7578715	T	C	C	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-1812A>G					1810	WARNING_TRANSCRIPT_NO_START_CODON,C
+17	7578743	GCT	G	G	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-1842_-1841delAG					1839	WARNING_TRANSCRIPT_NO_START_CODON,G
+17	7578772	T	G	G	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-1869A>C					1867	WARNING_TRANSCRIPT_NO_START_CODON,G
+17	7578793	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000576024	protein_coding		c.-1890G>A					1888	WARNING_TRANSCRIPT_NO_START_CODON,T
+17	7578822	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000504290	retained_intron		n.-11G>A					11	,T
+17	7578837	A	G	G	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000504290	retained_intron		n.-26T>C					26	,G
+17	7578874	G	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000504290	retained_intron		n.-63C>A					63	,T
+17	7578887	A	AT	AT	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000504290	retained_intron		n.-77dupA					77	,AT
+17	7578957	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000504290	retained_intron		n.-146C>T					146	,A
+17	7579008	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000504290	retained_intron		n.-197C>T					197	,A
+17	7579081	A	G	G	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000504290	retained_intron		n.-270T>C					270	,G
+17	7579126	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000504290	retained_intron		n.-315G>A					315	,T
+17	7579271	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000504290	retained_intron		n.-460G>A					460	,T
+17	7579358	C	T	T	missense_variant	MODERATE	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	4/11	c.329G>A	p.Arg110His	519/2579	329/1182	110/393		,T
+17	7579368	A	G	G	missense_variant	MODERATE	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	4/11	c.319T>C	p.Tyr107His	509/2579	319/1182	107/393		,G
+17	7579439	G	A	A	missense_variant	MODERATE	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	4/11	c.248C>T	p.Ala83Val	438/2579	248/1182	83/393		,A
+17	7579471	G	A	A	synonymous_variant	LOW	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	4/11	c.216C>T	p.Pro72Pro	406/2579	216/1182	72/393		,A
+17	7579472	G	C	C	missense_variant	MODERATE	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	4/11	c.215C>G	p.Pro72Arg	405/2579	215/1182	72/393		,C
+17	7579519	T	C	C	synonymous_variant	LOW	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	4/11	c.168A>G	p.Glu56Glu	358/2579	168/1182	56/393		,C
+17	7579546	C	T	T	synonymous_variant	LOW	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	4/11	c.141G>A	p.Pro47Pro	331/2579	141/1182	47/393		,T
+17	7579548	G	A	A	missense_variant	MODERATE	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	4/11	c.139C>T	p.Pro47Ser	329/2579	139/1182	47/393		,A
+17	7579579	C	T	T	synonymous_variant	LOW	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	4/11	c.108G>A	p.Pro36Pro	298/2579	108/1182	36/393		,T
+17	7579596	G	A	A	splice_region_variant&intron_variant	LOW	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	3/10	c.97-6C>T						,A
+17	7579618	A	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000504290	retained_intron		n.-807T>A					807	,T
+17	7579619	G	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000504290	retained_intron		n.-808C>A					808	,T
+17	7579642	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000504290	retained_intron		n.-831G>A					831	,T
+17	7579643	CCCCCAGCCCTCCAGGT	C	C	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000504290	retained_intron		n.-848_-833delACCTGGAGGGCTGGGG					833	,C
+17	7579685	A	G	G	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000504290	retained_intron		n.-874T>C					874	,G
+17	7579705	C	T	T	missense_variant	MODERATE	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	3/11	c.91G>A	p.Val31Ile	281/2579	91/1182	31/393		,T
+17	7579761	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000504290	retained_intron		n.-950G>A					950	,T
+17	7579762	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000504290	retained_intron		n.-951C>T					951	,A
+17	7579794	T	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000504290	retained_intron		n.-983A>T					983	,A
+17	7579801	G	C	C	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000504290	retained_intron		n.-990C>G					990	,C
+17	7579825	A	G	G	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000504290	retained_intron		n.-1014T>C					1014	,G
+17	7579850	G	A	A	synonymous_variant	LOW	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	2/11	c.63C>T	p.Asp21Asp	253/2579	63/1182	21/393		,A
+17	7579882	C	G	G	missense_variant	MODERATE	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	2/11	c.31G>C	p.Glu11Gln	221/2579	31/1182	11/393		,G
+17	7579883	G	A	A	synonymous_variant	LOW	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	2/11	c.30C>T	p.Val10Val	220/2579	30/1182	10/393		,A
+17	7579885	C	T	T	missense_variant	MODERATE	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	2/11	c.28G>A	p.Val10Ile	218/2579	28/1182	10/393		,T
+17	7580027	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-115G>A					115	,T
+17	7580052	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-140G>A					140	,T
+17	7580068	A	C	C	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-156T>G					156	,C
+17	7580117	C	G	G	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-205G>C					205	,G
+17	7580163	G	C	C	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-251C>G					251	,C
+17	7580256	AT	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-345delA					345	,A
+17	7580281	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-369C>T					369	,A
+17	7580342	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-430G>A					430	,T
+17	7580347	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-435G>A					435	,T
+17	7580421	A	AT	AT	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-510dupA					510	,AT
+17	7580436	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-524C>T					524	,A
+17	7580500	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-588G>A					588	,T
+17	7580598	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-686G>A					686	,T
+17	7580651	C	T	T	5_prime_UTR_premature_start_codon_gain_variant	LOW	TP53	ENSG00000141510	transcript	ENST00000508793	protein_coding	1/5	c.-37G>A						WARNING_TRANSCRIPT_INCOMPLETE,T
+17	7580677	C	T	T	5_prime_UTR_premature_start_codon_gain_variant	LOW	TP53	ENSG00000141510	transcript	ENST00000508793	protein_coding	1/5	c.-63G>A						WARNING_TRANSCRIPT_INCOMPLETE,T
+17	7580696	A	G	G	5_prime_UTR_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000508793	protein_coding	1/5	c.-82T>C					784	WARNING_TRANSCRIPT_INCOMPLETE,G
+17	7580709	C	T	T	5_prime_UTR_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000508793	protein_coding	1/5	c.-95G>A					797	WARNING_TRANSCRIPT_INCOMPLETE,T
+17	7580820	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-908G>A					908	,T
+17	7580827	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-915C>T					915	,A
+17	7580863	A	G	G	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-951T>C					951	,G
+17	7580941	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-1029G>A					1029	,T
+17	7581002	T	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-1090A>T					1090	,A
+17	7581042	A	G	G	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-1130T>C					1130	,G
+17	7581119	A	C	C	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-1207T>G					1207	,C
+17	7581124	A	G	G	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-1212T>C					1212	,G
+17	7581162	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-1250G>A					1250	,T
+17	7581178	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-1266C>T					1266	,A
+17	7581182	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-1270G>A					1270	,T
+17	7581227	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-1315G>A					1315	,T
+17	7581228	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-1316C>T					1316	,A
+17	7581262	C	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-1350G>T					1350	,A
+17	7581271	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-1359G>A					1359	,T
+17	7581275	T	C	C	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-1363A>G					1363	,C
+17	7581348	T	C	C	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-1436A>G					1436	,C
+17	7581357	A	G	G	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-1445T>C					1445	,G
+17	7581359	T	G	G	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-1447A>C					1447	,G
+17	7581363	A	G	G	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-1451T>C					1451	,G
+17	7581395	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-1483C>T					1483	,A
+17	7581427	C	G	G	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-1515G>C					1515	,G
+17	7581495	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-1583C>T					1583	,A
+17	7581536	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-1624G>A					1624	,T
+17	7581565	A	G	G	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-1653T>C					1653	,G
+17	7581583	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-1671C>T					1671	,A
+17	7581682	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-1770C>T					1770	,A
+17	7581701	T	C	C	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-1789A>G					1789	,C
+17	7581710	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-1798G>A					1798	,T
+17	7581766	TTTTC	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-1858_-1855delGAAA					1855	,T
+17	7581769	TC	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-1858delG					1858	,T
+17	7581803	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-1891G>A					1891	,T
+17	7581815	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-1903C>T					1903	,A
+17	7581873	C	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-1961G>T					1961	,A
+17	7581874	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-1962C>T					1962	,A
+17	7581885	C	G	G	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-1973G>C					1973	,G
+17	7581911	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-1999G>A					1999	,T
+17	7581918	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-2006G>A					2006	,T
+17	7582000	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-2088C>T					2088	,A
+17	7582019	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-2107C>T					2107	,A
+17	7582067	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-2155G>A					2155	,T
+17	7582068	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-2156C>T					2156	,A
+17	7582069	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-2157C>T					2157	,A
+17	7582208	A	G	G	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-2296T>C					2296	,G
+17	7582240	GTTTT	G	G	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-2332_-2329delAAAA					2329	,G
+17	7582304	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-2392G>A					2392	,T
+17	7582477	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-2565G>A					2565	,T
+17	7582478	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-2566C>T					2566	,A
+17	7582606	TTTTTA	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-2699_-2695delTAAAA					2695	,T
+17	7582648	T	C	C	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-2736A>G					2736	,C
+17	7582665	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-2753C>T					2753	,A
+17	7582719	C	CCTT	CCTT	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-2808_-2807insAAG					2808	,CCTT
+17	7582823	G	C	C	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-2911C>G					2911	,C
+17	7582859	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-2947C>T					2947	,A
+17	7582874	A	AC,G	G	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-2962T>C					2962	,AC
+17	7582906	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-2994G>A					2994	,T
+17	7582910	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-2998G>A					2998	,T
+17	7582922	A	C	C	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-3010T>G					3010	,C
+17	7582934	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-3022G>A					3022	,T
+17	7582985	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-3073G>A					3073	,T
+17	7583013	C	G	G	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-3101G>C					3101	,G
+17	7583030	A	G	G	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-3118T>C					3118	,G
+17	7583072	A	G	G	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-3160T>C					3160	,G
+17	7583083	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-3171C>T					3171	,A
+17	7583099	T	C	C	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-3187A>G					3187	,C
+17	7583109	A	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-3197T>A					3197	,T
+17	7583120	G	C	C	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-3208C>G					3208	,C
+17	7583163	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-3251C>T					3251	,A
+17	7583186	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-3274C>T					3274	,A
+17	7583194	T	C	C	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-3282A>G					3282	,C
+17	7583198	A	G	G	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-3286T>C					3286	,G
+17	7583222	C	G	G	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-3310G>C					3310	,G
+17	7583227	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-3315C>T					3315	,A
+17	7583265	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-3353C>T					3353	,A
+17	7583274	A	G	G	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-3362T>C					3362	,G
+17	7583433	C	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-3521G>T					3521	,A
+17	7583470	T	C	C	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-3558A>G					3558	,C
+17	7583528	T	TACA	TACA	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-3619_-3617dupTGT					3617	,TACA
+17	7583586	T	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-3674A>T					3674	,A
+17	7583587	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-3675C>T					3675	,A
+17	7583622	G	C	C	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-3710C>G					3710	,C
+17	7583703	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-3791G>A					3791	,T
+17	7583725	T	G	G	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-3813A>C					3813	,G
+17	7583746	C	G	G	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-3834G>C					3834	,G
+17	7583748	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-3836C>T					3836	,A
+17	7583777	T	C	C	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-3865A>G					3865	,C
+17	7583799	G	C	C	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-3887C>G					3887	,C
+17	7583814	C	CT	CT	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-3903dupA					3903	,CT
+17	7583845	C	CT	CT	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-3934dupA					3934	,CT
+17	7583863	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-3951C>T					3951	,A
+17	7583885	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-3973G>A					3973	,T
+17	7583889	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-3977C>T					3977	,A
+17	7583897	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-3985G>A					3985	,T
+17	7583903	C	G	G	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-3991G>C					3991	,G
+17	7584032	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-4120C>T					4120	,A
+17	7584080	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-4168G>A					4168	,T
+17	7584094	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-4182G>A					4182	,T
+17	7584118	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-4206G>A					4206	,T
+17	7584119	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-4207C>T					4207	,A
+17	7584138	C	G	G	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-4226G>C					4226	,G
+17	7584197	A	G	G	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-4285T>C					4285	,G
+17	7584203	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-4291C>T					4291	,A
+17	7584266	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-4354C>T					4354	,A
+17	7584274	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-4362C>T					4362	,A
+17	7584343	A	G	G	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-4431T>C					4431	,G
+17	7584351	G	A	A	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-4439C>T					4439	,A
+17	7584355	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-4443G>A					4443	,T
+17	7584400	T	C	C	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-4488A>G					4488	,C
+17	7584488	CT	C	C	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-4577delA					4577	,C
+17	7584515	A	G	G	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-4603T>C					4603	,G
+17	7584599	C	T	T	upstream_gene_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000413465	protein_coding		c.-4687G>A					4687	,T
+17	7584717	A	C	C	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-7250A>C					4902	,C
+17	7584811	G	A	A	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-7156G>A					4808	,A
+17	7584872	T	C	C	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-7095T>C					4747	,C
+17	7585055	CCT	C	C	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-6911_-6910delCT					4563	,C
+17	7585108	TTC	T	T	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-6858_-6857delTC					4510	,T
+17	7585116	C	CT	CT	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-6851_-6850insT					4502	,CT
+17	7585207	G	A	A	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-6760G>A					4412	,A
+17	7585236	C	T	T	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-6731C>T					4383	,T
+17	7585362	C	T	T	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-6605C>T					4257	,T
+17	7585389	G	C	C	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-6578G>C					4230	,C
+17	7585449	T	C	C	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-6518T>C					4170	,C
+17	7585532	T	C	C	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-6435T>C					4087	,C
+17	7585534	T	C	C	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-6433T>C					4085	,C
+17	7585556	G	T	T	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-6411G>T					4063	,T
+17	7585572	C	T	T	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-6395C>T					4047	,T
+17	7585590	C	T	T	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-6377C>T					4029	,T
+17	7585632	A	G	G	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-6335A>G					3987	,G
+17	7585642	C	G	G	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-6325C>G					3977	,G
+17	7585650	C	A	A	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-6317C>A					3969	,A
+17	7585652	C	G	G	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-6315C>G					3967	,G
+17	7585693	A	C	C	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-6274A>C					3926	,C
+17	7585724	G	A	A	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-6243G>A					3895	,A
+17	7585759	T	A	A	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-6208T>A					3860	,A
+17	7585855	G	A	A	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-6112G>A					3764	,A
+17	7586037	T	C	C	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-5930T>C					3582	,C
+17	7586046	A	C	C	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-5921A>C					3573	,C
+17	7586058	T	A	A	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-5909T>A					3561	,A
+17	7586061	T	C	C	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-5906T>C					3558	,C
+17	7586063	T	C	C	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-5904T>C					3556	,C
+17	7586079	C	A	A	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-5888C>A					3540	,A
+17	7586080	A	G	G	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-5887A>G					3539	,G
+17	7586209	G	A	A	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-5758G>A					3410	,A
+17	7586255	T	C	C	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-5712T>C					3364	,C
+17	7586258	T	A	A	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-5709T>A					3361	,A
+17	7586346	C	A	A	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-5621C>A					3273	,A
+17	7586358	C	T	T	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-5609C>T					3261	,T
+17	7586359	G	A	A	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-5608G>A					3260	,A
+17	7586368	G	GC	GC	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-5599_-5598insC					3250	,GC
+17	7586380	C	T	T	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-5587C>T					3239	,T
+17	7586381	G	C	C	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-5586G>C					3238	,C
+17	7586387	C	G	G	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-5580C>G					3232	,G
+17	7586471	G	A	A	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-5496G>A					3148	,A
+17	7586476	G	A	A	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-5491G>A					3143	,A
+17	7586512	C	T	T	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-5455C>T					3107	,T
+17	7586529	G	A	A	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-5438G>A					3090	,A
+17	7586588	G	A	A	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-5379G>A					3031	,A
+17	7586650	G	A	A	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-5317G>A					2969	,A
+17	7586687	T	C	C	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-5280T>C					2932	,C
+17	7586706	G	A	A	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-5261G>A					2913	,A
+17	7586739	G	A	A	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-5228G>A					2880	,A
+17	7586789	A	G	G	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-5178A>G					2830	,G
+17	7586794	C	T	T	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-5173C>T					2825	,T
+17	7586799	C	T	T	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-5168C>T					2820	,T
+17	7586814	T	C	C	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-5153T>C					2805	,C
+17	7586893	T	C	C	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-5074T>C					2726	,C
+17	7586973	G	C	C	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-4994G>C					2646	,C
+17	7587081	G	A	A	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-4886G>A					2538	,A
+17	7587098	C	T	T	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-4869C>T					2521	,T
+17	7587118	T	C	C	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-4849T>C					2501	,C
+17	7587180	T	C	C	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-4787T>C					2439	,C
+17	7587200	T	C	C	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-4767T>C					2419	,C
+17	7587229	C	T	T	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-4738C>T					2390	,T
+17	7587249	C	T	T	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-4718C>T					2370	,T
+17	7587250	G	T	T	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-4717G>T					2369	,T
+17	7587320	C	T	T	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-4647C>T					2299	,T
+17	7587343	C	T	T	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-4624C>T					2276	,T
+17	7587357	T	C	C	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-4610T>C					2262	,C
+17	7587384	C	T	T	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-4583C>T					2235	,T
+17	7587409	G	T	T	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-4558G>T					2210	,T
+17	7587436	G	A	A	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-4531G>A					2183	,A
+17	7587467	A	C	C	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-4500A>C					2152	,C
+17	7587474	T	C	C	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-4493T>C					2145	,C
+17	7587482	C	T	T	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-4485C>T					2137	,T
+17	7587611	G	C	C	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-4356G>C					2008	,C
+17	7587687	A	G	G	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-4280A>G					1932	,G
+17	7587733	T	C	C	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-4234T>C					1886	,C
+17	7587760	C	G	G	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-4207C>G					1859	,G
+17	7587838	G	A	A	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-4129G>A					1781	,A
+17	7587899	T	C	C	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-4068T>C					1720	,C
+17	7587932	C	G	G	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-4035C>G					1687	,G
+17	7587976	T	C	C	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-3991T>C					1643	,C
+17	7588006	A	C	C	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-3961A>C					1613	,C
+17	7588031	C	G	G	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-3936C>G					1588	,G
+17	7588068	C	T	T	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-3899C>T					1551	,T
+17	7588112	G	A	A	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-3855G>A					1507	,A
+17	7588114	A	G	G	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-3853A>G					1505	,G
+17	7588193	C	A	A	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-3774C>A					1426	,A
+17	7588259	C	G	G	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-3708C>G					1360	,G
+17	7588344	T	C	C	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-3623T>C					1275	,C
+17	7588470	A	T	T	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-3497A>T					1149	,T
+17	7588520	C	T	T	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-3447C>T					1099	,T
+17	7588560	A	G	G	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-3407A>G					1059	,G
+17	7588666	T	G	G	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-3301T>G					953	,G
+17	7588679	GC	G	G	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-3287delC					939	,G
+17	7588712	T	C	C	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-3255T>C					907	,C
+17	7588724	T	C	C	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-3243T>C					895	,C
+17	7588730	G	C	C	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-3237G>C					889	,C
+17	7588750	G	T	T	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-3217G>T					869	,T
+17	7588761	G	T	T	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-3206G>T					858	,T
+17	7588775	T	C	C	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-3192T>C					844	,C
+17	7588777	T	TG	TG	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-3190_-3189insG					841	,TG
+17	7588781	T	C	C	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-3186T>C					838	,C
+17	7588818	T	C	C	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-3149T>C					801	,C
+17	7588897	C	T	T	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-3070C>T					722	,T
+17	7588956	G	A	A	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-3011G>A					663	,A
+17	7589047	G	T	T	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-2920G>T					572	,T
+17	7589060	C	A	A	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-2907C>A					559	,A
+17	7589188	T	C	C	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-2779T>C					431	,C
+17	7589224	T	G	G	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-2743T>G					395	,G
+17	7589262	A	C	C	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-2705A>C					357	,C
+17	7589311	G	C	C	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-2656G>C					308	,C
+17	7589346	G	C	C	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-2621G>C					273	,C
+17	7589377	C	G	G	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-2590C>G					242	,G
+17	7589389	T	A	A	5_prime_UTR_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000431639	protein_coding	1/11	c.-155T>A					2578	,A
+17	7589404	C	T	T	5_prime_UTR_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000431639	protein_coding	1/11	c.-140C>T					2563	,T
+17	7589414	G	T	T	5_prime_UTR_premature_start_codon_gain_variant	LOW	WRAP53	ENSG00000141499	transcript	ENST00000431639	protein_coding	1/11	c.-130G>T						,T
+17	7589454	C	T	T	5_prime_UTR_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000431639	protein_coding	1/11	c.-90C>T					2513	,T
+17	7589490	A	T	T	5_prime_UTR_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000431639	protein_coding	1/11	c.-54A>T					2477	,T
+17	7589504	T	C	C	5_prime_UTR_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000431639	protein_coding	1/11	c.-40T>C					2463	,C
+17	7589512	T	C	C	5_prime_UTR_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000431639	protein_coding	1/11	c.-32T>C					2455	,C
+17	7589519	G	A	A	5_prime_UTR_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000431639	protein_coding	1/11	c.-25G>A					2448	,A
+17	7589587	C	T	T	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-2380C>T					32	,T
+17	7589611	C	G	G	upstream_gene_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding		c.-2356C>G					8	,G
+17	7589691	C	T	T	5_prime_UTR_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding	1/10	c.-2276C>T					2276	,T
+17	7589702	C	T	T	5_prime_UTR_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding	1/10	c.-2265C>T					2265	,T
+17	7589705	C	T	T	5_prime_UTR_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding	1/10	c.-2262C>T					2262	,T
+17	7589747	C	A	A	5_prime_UTR_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding	1/10	c.-2220C>A					2220	,A
+17	7589770	C	T	T	5_prime_UTR_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding	1/10	c.-2197C>T					2197	,T
+17	7589771	A	C	C	5_prime_UTR_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding	1/10	c.-2196A>C					2196	,C
+17	7589830	A	G	G	5_prime_UTR_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding	1/10	c.-2137A>G					2137	,G
+17	7589841	A	T	T	5_prime_UTR_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding	1/10	c.-2126A>T					2126	,T
+17	7589845	A	T	T	5_prime_UTR_premature_start_codon_gain_variant	LOW	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding	1/10	c.-2122A>T						,T
+17	7589846	G	T	T	5_prime_UTR_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding	1/10	c.-2121G>T					2121	,T
+17	7589848	A	C	C	5_prime_UTR_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding	1/10	c.-2119A>C					2119	,C
+17	7589896	G	A	A	5_prime_UTR_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding	1/10	c.-2071G>A					2071	,A
+17	7589984	C	T	T	5_prime_UTR_premature_start_codon_gain_variant	LOW	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding	1/10	c.-1983C>T						,T
+17	7590057	G	A	A	5_prime_UTR_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding	1/10	c.-1910G>A					1910	,A
+17	7590073	C	G	G	5_prime_UTR_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding	1/10	c.-1894C>G					1894	,G
+17	7590124	A	G	G	5_prime_UTR_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding	1/10	c.-1843A>G					1843	,G
+17	7590147	A	C	C	5_prime_UTR_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding	1/10	c.-1820A>C					1820	,C
+17	7590152	G	C	C	5_prime_UTR_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding	1/10	c.-1815G>C					1815	,C
+17	7590183	A	T	T	5_prime_UTR_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding	1/10	c.-1784A>T					1784	,T
+17	7590269	T	C	C	5_prime_UTR_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding	1/10	c.-1698T>C					1698	,C
+17	7590374	T	C	C	5_prime_UTR_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding	1/10	c.-1593T>C					1593	,C
+17	7590410	G	A	A	5_prime_UTR_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding	1/10	c.-1557G>A					1557	,A
+17	7590459	A	G	G	5_prime_UTR_premature_start_codon_gain_variant	LOW	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding	1/10	c.-1508A>G						,G
+17	7590468	A	C	C	5_prime_UTR_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding	1/10	c.-1499A>C					1499	,C
+17	7590510	C	T	T	5_prime_UTR_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding	1/10	c.-1457C>T					1457	,T
+17	7590512	G	C	C	5_prime_UTR_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding	1/10	c.-1455G>C					1455	,C
+17	7590547	C	T	T	5_prime_UTR_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding	1/10	c.-1420C>T					1420	,T
+17	7590602	C	A	A	5_prime_UTR_variant	MODIFIER	WRAP53	ENSG00000141499	transcript	ENST00000316024	protein_coding	1/10	c.-1365C>A					1365	,A
+17	7590714	C	T	T	5_prime_UTR_variant	MODIFIER	TP53	ENSG00000141510	transcript	ENST00000269305	protein_coding	1/11	c.-48G>A					10802	,T
