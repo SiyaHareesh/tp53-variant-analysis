@@ -2,7 +2,7 @@
 
 #### Project Overview
 
-Analyzed TP53 gene using 1000 Genomes data to determine population-specific allele frequencies and high-impact variants
+Analyzed TP53 gene using 1000 Genomes data to determine population-specific allele frequencies and high-impact variants.
 
 #### Files & Folders
 
