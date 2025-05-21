@@ -30,7 +30,7 @@ Analyzed TP53 gene using 1000 Genomes data to determine population-specific alle
  - TP53_variants_clinical_annotation.csv
 
    - Note: The numbers 1_, 2_, 3_ ,etc prefixed before the file names are removed from the respective file names when they are used in a code for analysis.
-   - Note: Files with prefix 2_ and 7_ are not in the data file. 
+   - Note: Files with prefix 2_ and 7_ are not in the data folder. 
 
 ---
 
