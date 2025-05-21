@@ -32,6 +32,8 @@ Analyzed TP53 gene using 1000 Genomes data to determine population-specific alle
    - Note: The numbers 1_, 2_, 3_ ,etc prefixed before the file names are removed from the respective file names when they are used in a code for analysis.
    - Note: Files with prefix 2_ and 7_ are not in the data file. 
 
+---
+
 - `scripts/`: Contains all the scripts used to perform analyses, in the order of the analyses.
 
 ##### List of files:
@@ -57,6 +59,8 @@ Analyzed TP53 gene using 1000 Genomes data to determine population-specific alle
  - 18_pop_cosmic.py
 
    - Note: The numbers 1_, 2_, 3_ ,etc prefixed before the file names are removed from the respective file names when they are used in a script.
+
+ ---
 
 - `results/`: Contains the final outputs of scripts that aren't stored in data, because they constitute the final result of the analyses.
 
@@ -85,6 +89,8 @@ Analyzed TP53 gene using 1000 Genomes data to determine population-specific alle
 
     - Note: The numbers 1_, 2_, 3_ ,etc prefixed before the file names are for sorting purposes only.
 
+---
+
 #### Step-by-Step Instructions
 
  1. Obtain TP53 gene co-ordinates : 1_extract_tp53_location_GRCh37.py
@@ -107,4 +113,14 @@ Analyzed TP53 gene using 1000 Genomes data to determine population-specific alle
   - g) Analysis of the most common variants across poplulations: 17_common_variants.py
   - h) Understanding the impact of most significant variants across population: 18_pop_cosmic.py
 
+---
+
+#### Information on population types
+
+1. Vist https://www.internationalgenome.org
+2. Click on Data
+3. Click on FTP Site
+4. Open 	README_populations.md
+
+---
 
