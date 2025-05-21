@@ -55,7 +55,7 @@ Analyzed TP53 gene using 1000 Genomes data to determine population-specific alle
 - 17_common_variants.py
 - 18_pop_cosmic.py
 
- - Note: The numbers 1_, 2_, 3_ ,etc prefixed before the file names are removed from the respective file names when they are used in document.
+  - Note: The numbers 1_, 2_, 3_ ,etc prefixed before the file names are removed from the respective file names when they are used in a script.
 
 - `results/`: Contains the final outputs of scripts that aren't stored in data, because they constitute the final result of the analyses.
 
@@ -82,7 +82,7 @@ Analyzed TP53 gene using 1000 Genomes data to determine population-specific alle
 - 9_pop_cosmic.md
 - 9_tp53_high_risk_variant_table.csv
 
-  - Note: The numbers 1_, 2_, 3_ ,etc prefixed before the file names are for sorting purposes only.
+   - Note: The numbers 1_, 2_, 3_ ,etc prefixed before the file names are for sorting purposes only.
 
 #### Step-by-Step Instructions
 
