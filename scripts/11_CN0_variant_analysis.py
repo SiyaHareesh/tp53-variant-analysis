@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 
-# Parse the VCF file and collect (sample_id, genotype) pairs
+# Parse the VCF and collect sample_id, genotype pairs
 vcf_file = 'CN0_only.vcf'
 sample_ids = []
 sample_genotypes = []

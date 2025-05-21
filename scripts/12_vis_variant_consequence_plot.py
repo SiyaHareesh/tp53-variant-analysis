@@ -1,6 +1,3 @@
-# Creating variant_consequence_plot
-```python
-
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -12,7 +9,7 @@ df_variants = pd.read_csv("TP53_INFO_ANN.tsv", sep="\t")
 # Filter only TP53-related variants
 df_tp53 = df_variants[df_variants['Gene_Name'] == 'TP53'].copy()
 
-# Replace underscores with spaces for better readability in the plot
+# Replace underscores with spaces for better readability 
 df_tp53['Annotation'] = df_tp53['Annotation'].str.replace('_', ' ')
 
 # Sort annotations by frequency

@@ -11,7 +11,7 @@ print("Columns in file:", df.columns.tolist())
 # Count samples per population
 population_counts = df['Population'].value_counts()
 
-# Plotting
+# Plot
 plt.figure(figsize=(8, 5))
 sns.barplot(x=population_counts.index, y=population_counts.values, palette="Set3")
 plt.title("Sample Count per Population", fontweight='bold',pad=10)

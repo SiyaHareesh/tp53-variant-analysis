@@ -10,10 +10,3 @@
 
 #Run the script with a .vcf file as argument: ./vcf_to_tsv.sh TP53_noCN0.ann.vcf
 
-
-
-
-
-
-#Mount to windows:cp /home/siyah/TP53-Variant-Analysis/data/TP53_genotypes.tsv /mnt/c/Users/siyah/Downloads
- 

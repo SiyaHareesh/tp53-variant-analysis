@@ -2,10 +2,10 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import pandas as pd
 
-# Load the cleaned allele frequency file: made by using tsv_to_csv.py
+# Load the allele frequency file
 df_freq = pd.read_csv("TP53_population_frequencies.csv")
 
-# Melt the dataframe to long format: Variant | Population | Frequency
+# Melt the dataframe to a long format having: Variant | Population | Frequency
 melted = df_freq.melt(
     id_vars=["Variant"],
     value_vars=[col for col in df_freq.columns if col.endswith("_AF")],
@@ -13,7 +13,7 @@ melted = df_freq.melt(
     value_name="Frequency"
 )
 
-# Clean the population names (remove "_AF")
+# Clean the population names by removing "_AF"
 melted["Population"] = melted["Population"].str.replace("_AF", "")
 #print(melted)
 

@@ -1,5 +1,6 @@
-OUTPUT OF CODE: pop_cosmic.py
+### OUTPUT OF CODE: pop_cosmic.py
 
+```
 Total COSMIC-annotated TP53 variants: 20
 Detailed High-Risk Variants (AF > 0.01):
    Population         Variant  ...         COSMIC Tissue Type Variant Impact Level
@@ -40,5 +41,6 @@ Detailed High-Risk Variants (AF > 0.01):
 34     GIH_AF  17:7579472-G→C  ...  upper_aerodigestive_tract             MODERATE
 
 [35 rows x 5 columns]
+```
 
-#NOTE: Check tp53_high_risk_variant_table.csv
+#### NOTE: Check tp53_high_risk_variant_table.csv

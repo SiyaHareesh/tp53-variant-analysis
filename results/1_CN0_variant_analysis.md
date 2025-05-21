@@ -1,5 +1,6 @@
-CODE OUTPUT: CN0_variant_analysis.py
+### OUTPUT OF CODE: CN0_variant_analysis.py
 
+```
 Genotype counts:
  genotype
 0|0    2473
@@ -45,3 +46,4 @@ population
 BEB    1
 Name: count, dtype: int64
 Most represented population for 1|1: BEB with 1 samples
+```

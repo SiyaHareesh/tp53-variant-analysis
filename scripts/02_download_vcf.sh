@@ -12,4 +12,4 @@ VCF_TBI="ALL.chr17.phase3_shapeit2_mvncall_integrated_v5b.20130502.genotypes.vcf
 wget "${BASE_URL}/${VCF}"
 wget "${BASE_URL}/${VCF_TBI}"
 
-echo "Download complete!"
+echo "Download complete"

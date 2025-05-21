@@ -5,7 +5,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Load the cleaned frequency file
+# Load the frequency file
 df_freq = pd.read_csv("TP53_population_frequencies.csv")
 
 # Melt to long format for analysis
